@@ -1,2 +1,6 @@
 # Gitflow-Example-Repo
-This repository will be an example of a successful git workflow following the git-flow methods of branching development
+Hey it's Lohit again. So it turnsout GIT automatically pushes to master. I need to checkout to the development branch. So yeah that's that. Here's a dev push that may not be ready for the amster branch yet.
+
+
+
+
